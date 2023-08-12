@@ -17,7 +17,7 @@ app.post("/calc",(req,res)=>{
         case "-":
           c=a-b;
           break;
-          
+         
         case "*":
           c=a*b;
           break;
